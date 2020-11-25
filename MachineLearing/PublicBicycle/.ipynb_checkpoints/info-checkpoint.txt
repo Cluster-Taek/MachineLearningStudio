@@ -1,0 +1,15 @@
+instant : 시간순서
+dteday : 년월일
+season : 1:겨울 2:봄 3:여름 4:가을
+yr : 년 0: 2011 1: 2012
+mnth : 월
+hr : 시간
+holiday : 공휴일여부
+weekday : 요일
+workingday : 월~금 and non-holiday 여부
+weathersit : 1:clear(few clouds) 2:mist+cloudy 3:light rain or light snow 4: Heavy rain or Heavy snow
+temp : 시간별 평균온도
+atemp : 시간별 체감온도
+hum : 시간별 평균습도
+windspeed : 시간별 평균풍속
+cnt : count of total rental bikes
